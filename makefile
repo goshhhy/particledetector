@@ -1,7 +1,7 @@
-CC ?= gcc
+CC ?= smlrcc
 CFLAGS ?= 
 
-OUT := particledector
+OUT := particledetector
 
 IN := src/main.c \
 
